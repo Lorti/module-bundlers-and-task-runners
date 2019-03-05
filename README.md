@@ -1,8 +1,11 @@
 # Module Bundlers and Task Runners
 
+🎓📚 Examples of JavaScript module bundlers and task runners, focusing on JS, HTML/CSS (Sass) and Vue.js
+
 ## webpack
 * <https://webpack.js.org/>
 * [webpack Basic (CLI)](/webpack-basic)
+* [webpack Basic (Config)](/webpack-config)
 
 ## Parcel
 * <https://parceljs.org/>
