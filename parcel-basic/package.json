@@ -1,0 +1,13 @@
+{
+  "name": "parcel-basic",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
+    "watch": "parcel watch index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0",
+    "sass": "^1.17.2"
+  }
+}
