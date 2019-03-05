@@ -1,5 +1,5 @@
 {
-  "name": "parcel-basic",
+  "name": "parcel-vue",
   "version": "1.0.0",
   "scripts": {
     "dev": "parcel index.html",

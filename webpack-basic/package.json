@@ -1,0 +1,13 @@
+{
+  "name": "webpack-basic",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack index.js -o dist/bundle.js -d",
+    "build": "webpack index.js -o dist/bundle.js -p",
+    "watch": "webpack index.js -o dist/bundle.js -d --watch"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
+}
