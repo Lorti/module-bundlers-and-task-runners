@@ -1,6 +1,7 @@
 # Module Bundlers and Task Runners
 
-* [Parcel Basic Example](/parcel-basic)
+* [Parcel Basic](/parcel-basic)
+* [Parcel Vue (Single File Components)](/parcel-vue)
 
 ## Contributors
 

@@ -1,0 +1,21 @@
+{
+  "name": "parcel-basic",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
+    "watch": "parcel watch index.html"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^2.6.0",
+    "parcel-bundler": "^1.11.0",
+    "pug": "^2.0.3",
+    "sass": "^1.17.2",
+    "typescript": "^3.3.3333",
+    "vue": "^2.6.8",
+    "vue-template-compiler": "^2.6.8"
+  },
+  "dependencies": {
+    "vue-hot-reload-api": "^2.3.3"
+  }
+}
