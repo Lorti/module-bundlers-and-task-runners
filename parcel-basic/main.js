@@ -1,4 +1,4 @@
-import classes from './main.css';
+import './main.css';
 
 export default () => {
     console.log('Parcel');
