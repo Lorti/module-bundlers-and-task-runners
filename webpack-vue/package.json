@@ -2,9 +2,8 @@
   "name": "webpack-vue",
   "version": "1.0.0",
   "scripts": {
-    "dev": "webpack --mode development",
-    "build": "webpack --mode production",
-    "watch": "webpack --mode development --watch"
+    "dev": "webpack-dev-server",
+    "build": "webpack --mode production"
   },
   "devDependencies": {
     "css-loader": "^2.1.0",
@@ -17,6 +16,7 @@
     "vue-loader": "^15.7.0",
     "vue-template-compiler": "^2.6.8",
     "webpack": "^4.29.6",
-    "webpack-cli": "^3.2.3"
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1"
   }
 }
