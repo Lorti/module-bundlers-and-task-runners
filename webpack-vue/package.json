@@ -1,5 +1,5 @@
 {
-  "name": "webpack-loaders",
+  "name": "webpack-vue",
   "version": "1.0.0",
   "scripts": {
     "dev": "webpack --mode development",
@@ -8,9 +8,14 @@
   },
   "devDependencies": {
     "css-loader": "^2.1.0",
+    "html-webpack-plugin": "^4.0.0-beta.5",
     "node-sass": "^4.11.0",
+    "pug": "^2.0.3",
+    "pug-plain-loader": "^1.0.0",
     "sass-loader": "^7.1.0",
-    "style-loader": "^0.23.1",
+    "vue": "^2.6.8",
+    "vue-loader": "^15.7.0",
+    "vue-template-compiler": "^2.6.8",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.2.3"
   }

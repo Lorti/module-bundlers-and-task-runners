@@ -8,6 +8,7 @@
 * [webpack Basic (Config)](/webpack-config)
 * [webpack Loaders](/webpack-loaders)
 * [webpack Plugins](/webpack-plugins)
+* [webpack Vue (Single File Components)](/webpack-vue)
 
 ## Parcel
 * <https://parceljs.org/>

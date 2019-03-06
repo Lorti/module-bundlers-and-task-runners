@@ -6,7 +6,7 @@
     export default {
         data() {
             return {
-                bundler: 'Parcel'
+                bundler: 'webpack'
             };
         }
     };
