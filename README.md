@@ -7,6 +7,7 @@
 * [webpack Basic (CLI)](/webpack-basic)
 * [webpack Basic (Config)](/webpack-config)
 * [webpack Loaders](/webpack-loaders)
+* [webpack Plugins](/webpack-plugins)
 
 ## Parcel
 * <https://parceljs.org/>
