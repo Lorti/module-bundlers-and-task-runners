@@ -17,7 +17,7 @@ module.exports = function (grunt) {
         uglify: {
             dist: {
                 src: 'dist/bundle.js',
-                dest: 'dist/bundle.min.js'
+                dest: 'dist/bundle.js'
             }
         },
         watch: {

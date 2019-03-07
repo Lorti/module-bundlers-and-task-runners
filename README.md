@@ -15,6 +15,14 @@
 * [Parcel Basic](/parcel-basic)
 * [Parcel Vue (Single File Components)](/parcel-vue)
 
+## Grunt
+* <https://gruntjs.com/>
+* [Grunt](/grunt)
+
+## Gulp
+* <https://gulpjs.com/>
+* [Gulp](/gulp)
+
 ## Contributors
 
 Manuel Wieser<br>
