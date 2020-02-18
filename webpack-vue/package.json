@@ -6,17 +6,17 @@
     "build": "webpack --mode production"
   },
   "devDependencies": {
-    "css-loader": "^2.1.0",
+    "css-loader": "^3.4.2",
     "html-webpack-plugin": "^4.0.0-beta.5",
-    "node-sass": "^4.11.0",
-    "pug": "^2.0.3",
+    "node-sass": "^4.13.1",
+    "pug": "^2.0.4",
     "pug-plain-loader": "^1.0.0",
-    "sass-loader": "^7.1.0",
-    "vue": "^2.6.8",
-    "vue-loader": "^15.7.0",
-    "vue-template-compiler": "^2.6.8",
-    "webpack": "^4.29.6",
-    "webpack-cli": "^3.2.3",
-    "webpack-dev-server": "^3.2.1"
+    "sass-loader": "^8.0.2",
+    "vue": "^2.6.11",
+    "vue-loader": "^15.9.0",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
   }
 }
